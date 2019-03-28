@@ -1,15 +1,27 @@
 .font  {
     font-weight:bold;
-    color:white;
+    color:black;
     text-align:center;
+    font-family: Helvetica;
 }
 
 .beginning{
     text-align: center;
-    color:white;
+    color:black;
+    font-family:arial;
 }
 
-body {
-    background-image: url(../images/dark.jpg);
+.background img{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.6;
+}
+
+!--body {
+   background-image: url(../images/dark.jpg);
     background-size: 100%;
+
 }
