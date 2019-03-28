@@ -1,0 +1,15 @@
+.font  {
+    font-weight:bold;
+    color:white;
+    text-align:center;
+}
+
+.beginning{
+    text-align: center;
+    color:white;
+}
+
+body {
+    background-image: url(../images/dark.jpg);
+    background-size: 100%;
+}
